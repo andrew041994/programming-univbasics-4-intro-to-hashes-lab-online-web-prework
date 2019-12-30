@@ -1,4 +1,4 @@
-require ""
+
 def new_hash
     {
 
