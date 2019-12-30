@@ -37,5 +37,6 @@ def update_counting_hash(hash, key)
   else
     hash = {}
     hash[key]=1
+    hash
   end
 end
